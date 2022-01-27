@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joaobaltazar@gmail.com
+	name = Joao Baltazar
